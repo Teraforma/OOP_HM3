@@ -1,0 +1,15 @@
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\bin\Debug\net6.0\Windows Forms Application.exe
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\bin\Debug\net6.0\Windows Forms Application.deps.json
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\bin\Debug\net6.0\Windows Forms Application.runtimeconfig.json
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\bin\Debug\net6.0\Windows Forms Application.dll
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\bin\Debug\net6.0\Windows Forms Application.pdb
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.csproj.AssemblyReference.cache
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.AssemblyInfoInputs.cache
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.AssemblyInfo.cs
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.csproj.CoreCompileInputs.cache
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.dll
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\refint\Windows Forms Application.dll
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.pdb
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\Windows Forms Application.genruntimeconfig.cache
+C:\Users\teraf\source\repos\ConsoleApp1\Windows Forms Application\obj\Debug\net6.0\ref\Windows Forms Application.dll
